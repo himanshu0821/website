@@ -14,5 +14,3 @@ RESTful API is utilized in the project.
 ![alt tag](https://i.imgur.com/c5QZNp4.png)
 ![alt tag](https://i.imgur.com/hJtT2yF.png)
 ![alt tag](https://i.imgur.com/8eySGwb.png)
-# Sophomore_Networking
-# Sophomore_Networking
